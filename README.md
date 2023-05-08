@@ -1,2 +1,2 @@
 # js-practice
-Some scripts in JavaScript
+Some projects in JavaScript
